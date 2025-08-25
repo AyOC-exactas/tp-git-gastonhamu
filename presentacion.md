@@ -1,6 +1,6 @@
 # Presentación
-Hola! Mi nombre es [COMPLETAR].
+Hola! Mi nombre es Gaston Julian Hamu.
 
-En mi tiempo libre me gusta...
+En mi tiempo libre me gusta dormir la siesta.
 
-Mi instrucción favorita del manual de intel es...
+Mi instrucción favorita del manual de intel es mov.
